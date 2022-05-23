@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sergeyir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: anstupov0124@gmail.com
+Hi, I’m @Sergeyir
+I code mainly on c++
+How to reach me: anstupov0124@gmail.com
 
 <!---
 Sergeyir/Sergeyir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
