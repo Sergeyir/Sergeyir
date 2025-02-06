@@ -1,10 +1,7 @@
-Hi, I’m @Sergeyir
+Hi, I’m Sergei Antsupov (aka @Sergeyir)
 
-I code mainly on c++
+My main interests are high energy phyisics, particle physics, and programming (mostly c++, python) so my projects are mostly within these 3 areas
+
+See my [GitHub pages website](https://sergeyir.github.io/) for more information about me. You can also find list of my documentet repositores there.
 
 How to reach me: anstupov0124@gmail.com
-
-<!---
-Sergeyir/Sergeyir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
